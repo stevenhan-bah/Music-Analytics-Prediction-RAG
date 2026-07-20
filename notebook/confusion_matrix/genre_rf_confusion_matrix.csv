@@ -1,0 +1,11 @@
+,Predicted Classical,Predicted Country,Predicted Electronic,Predicted Folk,Predicted Hip-Hop/R&B,Predicted Jazz/Blues,Predicted Metal,Predicted Pop,Predicted Punk,Predicted Rock
+Actual Classical,42090,75,8667,157,80,3180,299,409,0,4964
+Actual Country,701,1795,1096,311,102,1544,17,1459,2,10466
+Actual Electronic,6685,143,142682,201,5253,5251,4046,2626,93,25295
+Actual Folk,1932,548,3426,879,158,2498,130,1288,4,9996
+Actual Hip-Hop/R&B,407,56,21440,40,14940,1051,200,1179,9,6139
+Actual Jazz/Blues,6301,316,12913,353,969,24035,199,1649,8,14471
+Actual Metal,556,9,7045,15,103,314,25725,146,285,19050
+Actual Pop,2212,559,20338,351,2182,3372,534,7528,44,32092
+Actual Punk,159,25,3575,19,175,295,3761,165,754,15060
+Actual Rock,4724,852,29708,568,1576,6261,11643,4841,593,110660
