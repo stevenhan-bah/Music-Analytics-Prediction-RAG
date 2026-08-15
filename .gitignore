@@ -1,3 +1,21 @@
+# ignore processed folder
+processed/
+
+# ignore notebook/catboost_info
+notebook/catboost_info/
+
+# keep the notebook/data folder, but ignore contents due to large file sizes
+notebook/data/*
+!notebook/data/.gitkeep
+
+# keep the notebook/processed_batches folder, but ignore contents due to large file sizes
+notebook/processed_batches/*
+!notebook/processed_batches/.gitkeep
+
+# keep the notebook/RAG_DATA folder, but ignore contents due to large file sizes
+notebook/RAG_DATA/*
+!notebook/RAG_DATA/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
