@@ -1,3 +1,16 @@
+# Ignore all contents inside the models folder
+notebook/models/*
+
+# Track only the final models used 
+!notebook/models/catboost_decade_model_features_selected.pkl
+!notebook/models/catboost_genre_model_features_selected.pkl
+
+
+# Ignore documents_1m.pkl and embedding_checkpoint.json
+notebook/documents_1m.pkl
+notebook/embedding_checkpoint.json
+notebook/music_chroma_db/
+
 # ignore processed folder
 processed/
 
